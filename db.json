@@ -1,8 +1,6 @@
 {
   "items": [
     {
-      "@context": "http://dublincore.org/specifications/dublin-core/dcmi-terms/2020-01-20/",
-      "@type": "MARC Record",
       "id": "1",
       "identifier": "9780590353403",
       "contributor": "Rowling, J. K.",
@@ -13,8 +11,6 @@
       "description": "Till now there’s been no magic for Harry Potter. He lives with the miserable Dursleys and their abominable son, Dudley. Harry’s room is a tiny closet at the foot of the stairs, and he hasn’t had a birthday party in eleven years. But then a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place called the Hogwarts School of Witchcraft and Wizardry. And there he finds not only friends, flying sports on broomsticks, and magic in everything from classes to meals, but a great destiny that’s been waiting for him . . . if Harry can survive the encounter."     
     },
     {
-      "@context": "http://dublincore.org/specifications/dublin-core/dcmi-terms/2020-01-20/",
-      "@type": "MARC Record",
       "id": "2",
       "identifier": "9780439064866",
       "contributor": "Rowling, J. K.",
@@ -25,8 +21,6 @@
       "description": "The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School of Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike. And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart; a spirit named Moaning Myrtle who haunts the girls' bathroom; and the unwanted attention of Ron Weasley's younger sister, Ginny. but each of these seem minor annoyances when the real trouble begins, and someone - or something - starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects... Harry Potter himself!"    
     },
     {
-      "@context": "http://dublincore.org/specifications/dublin-core/dcmi-terms/2020-01-20/",
-      "@type": "MARC Record",
       "id": "3",
       "identifier": "9780439136358",
       "contributor": "Rowling, J. K.",
@@ -39,7 +33,6 @@
   ],
   "users": [
     {
-      "@context": "https://caccl-butte.alma.exlibrisgroup.com/SAML",
       "@type": "Person",
       "id": "3259410",
       "name": "Jennifer Lasell",
@@ -48,7 +41,6 @@
       "RoleArea": "Catalog"
     },
     {
-      "@context": "https://caccl-butte.alma.exlibrisgroup.com/SAML",
       "@type": "Person",
       "id": "3524522",
       "name": "Jason Pien",
